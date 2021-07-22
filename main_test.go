@@ -5,5 +5,5 @@ import (
 )
 
 func TestDummy(t *testing.T) {
-	t.Log("all good in the hood")
+	t.Log("all good in the hood!")
 }
